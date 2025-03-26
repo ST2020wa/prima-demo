@@ -1,0 +1,6 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+# exclude the generated client from your application
+generated/prisma/
